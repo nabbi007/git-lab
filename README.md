@@ -82,8 +82,13 @@ git reflog show --all
 ---
 
 ## Screenshots
-- Git Config History — Script Execution  
-- Git Init History — Script Execution  
-- Commit History and Merge History — Script Execution
+- Git Init History — Script Execution
+   ![Alt text](screenshots/init.png) 
+
+- Commit Logs — Script Execution
+   ![Alt text](images/all_logs.png) 
+  
+
 
 ---
+
