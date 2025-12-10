@@ -83,12 +83,13 @@ git reflog show --all
 
 ## Screenshots
 - Git Init History — Script Execution
-   ![Alt text](screenshots/init.png) 
+   ![Alt text](screenshot/init.png) 
 
 - Commit Logs — Script Execution
-   ![Alt text](images/all_logs.png) 
+   ![Alt text](screenshot/all_logs.png) 
   
 
 
 ---
+
 
